@@ -1,0 +1,2 @@
+lidar_align
+-DCATKIN_DEVEL_PREFIX=/home/work/lidar_align_ws/devel -DCMAKE_INSTALL_PREFIX=/home/work/lidar_align_ws/install -G Unix Makefiles

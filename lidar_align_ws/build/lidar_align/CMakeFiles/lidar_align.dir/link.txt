@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,liblidar_align.so -o /home/work/lidar_align_ws/devel/lib/liblidar_align.so CMakeFiles/lidar_align.dir/src/sensors.cpp.o CMakeFiles/lidar_align.dir/src/aligner.cpp.o CMakeFiles/lidar_align.dir/src/loader.cpp.o 
